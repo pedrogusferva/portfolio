@@ -21,7 +21,6 @@ Mais importante do que isso, desenvolvi minhas habilidade analíticas ao lidar c
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
 * **Uma análise dos dados do Airbnb de Nova Iorque** 
 <!-- -->
