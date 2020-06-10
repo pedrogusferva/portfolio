@@ -22,7 +22,7 @@ Mais importante do que isso, desenvolvi minhas habilidade analíticas ao lidar c
 
 ## Projetos:
 
-* **Uma análise dos dados do Airbnb de Nova Iorque** 
+* **Uma análise dos dados do Airbnb de Nova Iorque** - [Link](https://colab.research.google.com/github/pedrogusferva/portfolio/blob/master/Analisando_os_Dados_do_Airbnb.ipynb)
 <!-- -->
 
 ---
